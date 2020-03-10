@@ -1,0 +1,44 @@
+.contactintro p {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.contacttext {
+  margin-top: 70px;
+}
+
+.contacttext p {
+  font-size: 30px;
+  letter-spacing: 3px;
+}
+
+.addresslabel p {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 100px;
+  letter-spacing: 3px;
+}
+
+.addresstext p {
+  font-size: 20px;
+  line-height: 1px;
+}
+
+.kyoyutext {
+  position: absolute;
+  background-color: black;
+  right: 5%;
+  bottom: 0%;
+  z-index: 3;
+}
+
+.kyoyutext p {
+  color: white;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: right;
+  font-weight: 500;
+  letter-spacing: 3px;
+  padding-top: 50px;
+}
